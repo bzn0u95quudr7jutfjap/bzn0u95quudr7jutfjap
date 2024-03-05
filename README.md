@@ -1,4 +1,10 @@
-### Ciao🇮🇹Hallo🇩🇪こんにちは🇯🇵Hello🇬🇧
+# :it:Ciao
+
+# :de:Hallo
+
+# :ja:こんにちは
+
+# :en:Hello
 
 <!--
 **bzn0u95quudr7jutfjap/bzn0u95quudr7jutfjap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
