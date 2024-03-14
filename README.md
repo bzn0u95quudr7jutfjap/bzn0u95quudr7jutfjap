@@ -4,6 +4,8 @@
 
 # 🇯🇵こんにちは
 
+注意：日本語出来ません。
+
 # 🇬🇧Hello
 
 <img src="https://devhumor.com/content/uploads/images/February2024/my_great_projects_github_meme.jpg">
