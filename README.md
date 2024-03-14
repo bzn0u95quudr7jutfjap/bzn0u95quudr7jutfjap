@@ -6,6 +6,8 @@
 
 # 🇬🇧Hello
 
+<img src="https://devhumor.com/content/uploads/images/February2024/my_great_projects_github_meme.jpg">
+
 <!--
 **bzn0u95quudr7jutfjap/bzn0u95quudr7jutfjap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
