@@ -1,11 +1,21 @@
 # 🇮🇹Ciao
 
-# 🇩🇪Hallo
+I miei linguaggi di programazione preferiti sono:
+- Haskell
+- PHP
+- C
+
+~~Guarda caso sono anche in ordine inverso di utilizzo.~~<br>
+Vorrei avere più progetti a cui lavorare nel tempo libero.
 
 # 🇯🇵こんにちは
 
 注意：日本語出来ません。
+
 好きな開発言語はHASKELLです。
+
+# 🇩🇪Hallo
+
 
 # 🇬🇧Hello
 
