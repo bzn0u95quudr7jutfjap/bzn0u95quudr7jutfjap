@@ -19,7 +19,8 @@ Vorrei avere più progetti a cui lavorare nel tempo libero.
 
 # 🇬🇧Hello
 
-<img src="https://devhumor.com/content/uploads/images/February2024/my_great_projects_github_meme.jpg">
+<img src="https://raw.githubusercontent.com/bzn0u95quudr7jutfjap/bzn0u95quudr7jutfjap/refs/heads/main/0-meme.jpg">
+<img src="https://raw.githubusercontent.com/bzn0u95quudr7jutfjap/bzn0u95quudr7jutfjap/refs/heads/main/1-meme.jpg">
 
 <!--
 **bzn0u95quudr7jutfjap/bzn0u95quudr7jutfjap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
